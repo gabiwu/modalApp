@@ -1,2 +1,2 @@
 # modalApp
-Simple modal application developed with JavaScript.
+Simple modal application developed with Vanilla JavaScript.
